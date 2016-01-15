@@ -5,7 +5,7 @@ namespace Livraria;
 return array(
     'router' => array(
         'routes' => array(
-            'livraria-home' => array(
+            'home' => array(
                 'type' => 'Zend\Mvc\Router\Http\Literal',
                 'options' => array(
                     'route' => '/livraria',
